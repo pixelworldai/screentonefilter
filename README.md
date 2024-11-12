@@ -5,4 +5,7 @@ This project provides a ComfyUI node to apply a manga-style screentone filter wi
 ## Installation
 
 ```sh
+
+cd ComfyUI/custom_nodes
+git clone https://github.com/pixelworldai/screentonefilter.git
 pip install -r requirements.txt
