@@ -1,0 +1,14 @@
+[project]
+name = "ScreentoneFilter"
+description = "Create a manga-like screentone effect on cartoon style images."
+version = "1.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/pixelworldai/screentonefilter"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "pixelworld_ai"
+DisplayName = "ScreentoneFilter"
+Icon = ""
